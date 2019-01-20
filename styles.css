@@ -1,0 +1,12 @@
+body {
+    background-blend-mode: darken
+}
+h1 {
+    color: #ffffff;
+    font-family: Trebuchet MS;
+    font-size: 150% 
+}
+.column {
+	float: left;
+	width: 33.3%;
+}
